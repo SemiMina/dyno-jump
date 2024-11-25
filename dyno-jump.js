@@ -149,6 +149,7 @@ function gameLoop() {
 
     requestAnimationFrame(gameLoop);
 };
+
 gameLoop();
 
 function getRandom(min, max) {
